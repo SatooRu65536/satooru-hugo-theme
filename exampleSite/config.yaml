@@ -6,7 +6,7 @@ paginate: 3
 languageCode: "ja"
 DefaultContentLanguage: "ja"
 uglyURLs: false
-theme: "satooru"
+theme: "satooru-hugo-theme"
 
 markup:
   tableOfContents:
