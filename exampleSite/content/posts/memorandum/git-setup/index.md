@@ -7,7 +7,7 @@ menu:
     name: "Git Setup"
     identifier: 2023-06-04T00:49:06+09:00
     weight: 20230604
-    parent: 2023-06
+    parent: memorandum
 ---
 
 # Git のセットアップ
